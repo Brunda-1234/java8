@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author TYSS
+ *
+ */
+module javaeight {
+	
+}
